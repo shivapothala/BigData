@@ -48,7 +48,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/vgz8b/Documents/vishnu_ws/glassfish3/glassfish/lib/javaee.jar"/>
 	<classpathentry kind="src" path=".apt_src">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -64,5 +63,16 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/commons-configuration-20041012.002804.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/hadoop-core-0.20.204.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/hadoop-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/hbase-0.94.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/sftp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/HbaseWS/lib/zookeeper-3.3.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
